@@ -14,7 +14,7 @@ To avoid duplicates and provide easy access the list is sorted by name.
 
 Happy watching 😃
 
-##Vlogs
+## Vlogs
 
 - [Ahmed Mo'nis](https://www.youtube.com/channel/UCfD7zPjir2rIS3PnN-m1H4w)
 - [Alex Figar](https://www.youtube.com/channel/UCzB28hNsHCLddMLn9dPcMLA)
