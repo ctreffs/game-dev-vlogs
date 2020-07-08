@@ -12,6 +12,8 @@ For YouTube this means you want `c`, `channel` or `user` followed by the channel
 
 To avoid duplicates and provide easy access the list is sorted by name.  
 
+Please open a pull request for any additions, so the CI pipeline can check for invalid links automatically.
+
 Happy watching 😃
 
 ---
