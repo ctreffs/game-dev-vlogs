@@ -1,5 +1,7 @@
 # Game Dev Vlogs
 
+[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-green.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
+
 This is a growing list of video logs revolving around game development.   
 It started with a [twitter conversation](https://twitter.com/juul1a/status/1280498993219452930).
 
