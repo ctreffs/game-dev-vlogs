@@ -1,6 +1,6 @@
 # Game Dev Vlogs
 
-[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-green.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
+![Check Markdown links](https://github.com/ctreffs/game-dev-vlogs/workflows/Check%20Markdown%20links/badge.svg) [![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-green.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
 
 This is a growing list of video logs revolving around game development.   
 It started with a [twitter conversation](https://twitter.com/juul1a/status/1280498993219452930).
@@ -11,6 +11,8 @@ Prefer channel or user links over direct video links.
 For YouTube this means you want `c`, `channel` or `user` followed by the channel or user name.  
 
 To avoid duplicates and provide easy access the list is sorted by name.  
+
+Please open a pull request for any additions, so the CI pipeline can check for invalid links automatically.
 
 Happy watching 😃
 
