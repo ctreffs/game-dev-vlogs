@@ -55,7 +55,7 @@ Happy watching 😃
 - [Matt Bull](https://www.youtube.com/channel/UC1CFW6RBBLDVWpvFY934XJw)
 - [Michael Kocha](https://www.youtube.com/c/MichaelKocha)
 - [Miniature Giants](https://www.youtube.com/channel/UCUqFaeMq-QrIDDPU-YXP4ng)
-- [Molly Rocket](www.youtube.com/c/MollyRocket)
+- [Molly Rocket](https://www.youtube.com/c/MollyRocket)
 - [Mystic Mask Media](https://www.youtube.com/c/MysticMaskMedia)
 - [Nadav Hekselman - badanos](https://www.youtube.com/user/badanos)
 - [nextProgram](https://www.youtube.com/c/nextProgram)
