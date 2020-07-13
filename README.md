@@ -72,6 +72,7 @@ Happy watching 😃
 - [The Cherno - TheChernoProject](https://www.youtube.com/c/TheChernoProject)
 - [ThinMatrix](https://www.youtube.com/user/ThinMatrix)
 - [Vertex Banana](https://www.youtube.com/channel/UCFgPbOHowDe_mrbs0EV5ZlQ)
+- [VertoStudio3D](https://www.youtube.com/c/VertoStudio3D)
 - [Vimlark](https://www.youtube.com/c/Vimlark)
 - [VuVuu Inc.](https://www.youtube.com/channel/UCXU6sW7I3If7Gx9yxOWqOfw)
 - [Wannibe Manisha](https://www.youtube.com/channel/UCnwPMw74a4wXBTw5RwB3RZQ)
