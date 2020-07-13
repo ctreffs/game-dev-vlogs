@@ -30,6 +30,7 @@ Happy watching 😃
 - [Boto Alien](https://www.youtube.com/channel/UCgKEt5REjA4Xohmemxn9tgg)
 - [Brad McDavitt - kungfumidget100](https://www.youtube.com/user/kungfumidget100)
 - [Broadcast](https://www.youtube.com/channel/UCnEt52HbBOxFLPDSuuDDbog)
+- [Brotcrunsher](https://www.youtube.com/c/Brotcrunsher/)
 - [BWDev](https://www.youtube.com/channel/UCYU6BO_VdYnzeQEOS_kSBWA)
 - [CafeLovai](https://www.youtube.com/channel/UCbV627Wqr5VTbupR7rxc6hg)
 - [Clammiee](https://www.youtube.com/c/Clammiee)
