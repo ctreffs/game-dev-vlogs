@@ -53,6 +53,7 @@ Happy watching 😃
 - [juul1a](https://www.youtube.com/c/juul1a)
 - [knucracker](https://www.youtube.com/user/knucracker)
 - [Konitama](https://www.youtube.com/c/Konitama)
+- [Kris - LucenDev](https://www.youtube.com/c/KrisLucenDev)
 - [Matt Bull](https://www.youtube.com/channel/UC1CFW6RBBLDVWpvFY934XJw)
 - [Michael Kocha](https://www.youtube.com/c/MichaelKocha)
 - [Miniature Giants](https://www.youtube.com/channel/UCUqFaeMq-QrIDDPU-YXP4ng)
