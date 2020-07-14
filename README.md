@@ -41,6 +41,7 @@ Happy watching 😃
 - [Death: The Game](https://www.youtube.com/channel/UCW_MAtr_ce4cmRA0spzBraw)
 - [DevDuck](https://www.youtube.com/c/DevDuck)
 - [DualWielded](https://www.youtube.com/channel/UCZ-KsjAT8-39iRpGwqVH2qA)
+- [Game Dev Unlocked](https://www.youtube.com/c/GameDevUnlocked)
 - [Gaminart - gaminartprod](https://www.youtube.com/c/gaminartprod)
 - [Ghostlopment](https://www.youtube.com/channel/UCZ-HfIUGetmwpXNwDYbfe6g)
 - [Hazzanger](https://www.youtube.com/user/Hazzanger)
