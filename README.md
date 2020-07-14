@@ -73,6 +73,7 @@ Happy watching 😃
 - [Snuti HQ](https://www.youtube.com/c/SnutiHQ)
 - [The Cherno - TheChernoProject](https://www.youtube.com/c/TheChernoProject)
 - [ThinMatrix](https://www.youtube.com/user/ThinMatrix)
+- [Thomas Brush - AtmosGames](https://www.youtube.com/c/AtmosGames)
 - [Vertex Banana](https://www.youtube.com/channel/UCFgPbOHowDe_mrbs0EV5ZlQ)
 - [VertoStudio3D](https://www.youtube.com/c/VertoStudio3D)
 - [Vimlark](https://www.youtube.com/c/Vimlark)
