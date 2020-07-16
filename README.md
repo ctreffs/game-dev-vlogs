@@ -66,6 +66,7 @@ Happy watching 😃
 - [NotSlot](https://www.youtube.com/c/NotSlot)
 - [Obiwahn89 - Gogola20](https://www.youtube.com/user/Gogola20)
 - [Pontypants](https://www.youtube.com/c/Pontypants)
+- [Raymond Cripps](https://www.youtube.com/c/RaymondCripps)
 - [Sam Hogan - XTtramptricks](https://www.youtube.com/user/XTtramptricks)
 - [Samuel BESSEAU](https://www.youtube.com/channel/UCtyKW1kPa1VbfySOwmvknpg)
 - [Scaly Bob](https://www.youtube.com/c/ScalyBob)
