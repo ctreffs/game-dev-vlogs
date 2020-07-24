@@ -35,6 +35,7 @@ Happy watching 😃
 - [CafeLovai](https://www.youtube.com/channel/UCbV627Wqr5VTbupR7rxc6hg)
 - [Clammiee](https://www.youtube.com/c/Clammiee)
 - [CodePadre](https://www.youtube.com/c/CodeParade)
+- [codergopher](https://www.youtube.com/channel/UCfiC4q3AahU4Io-s83-CIbQ)
 - [Dani - DaniDev](https://www.youtube.com/c/DaniDev)
 - [Dark Star Games](https://www.youtube.com/channel/UCybyniZCc0VM6pHZfs-OE0g)
 - [Dave Frampton - majiDave](https://www.youtube.com/user/majiDave)
