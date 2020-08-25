@@ -20,6 +20,7 @@ Happy watching 😃
 
 ## Vlogs
 
+
 - [Ahmed Mo'nis](https://www.youtube.com/channel/UCfD7zPjir2rIS3PnN-m1H4w)
 - [Alex Figar](https://www.youtube.com/channel/UCzB28hNsHCLddMLn9dPcMLA)
 - [Alex Hicks - Tutorials](https://www.youtube.com/c/AlexHicks_Tutorials)
@@ -49,6 +50,8 @@ Happy watching 😃
 - [Hudson Miears](https://www.youtube.com/channel/UCpHSXFLxATDubOAje6dDKeg)
 - [Hulahool Games](https://www.youtube.com/channel/UCVATuYt2qb7KPvAY4ejWIAQ)
 - [Indie Game Dev Report](https://www.youtube.com/channel/UCpMHeGV80zoSOI75HhbEdCg)
+- [itsKristinSrsly](https://www.youtube.com/channel/UCCHg9mt6Tu6f-WCF4gf5oyQ)
+- [Jabrils](https://www.youtube.com/c/Jabrils)
 - [javidx9](https://www.youtube.com/c/javidx9)
 - [Jelle Vermandere](https://www.youtube.com/c/JelleVermandere)
 - [Jonas Tyroller](https://www.youtube.com/c/JonasTyroller)
@@ -67,6 +70,7 @@ Happy watching 😃
 - [NotSlot](https://www.youtube.com/c/NotSlot)
 - [Obiwahn89 - Gogola20](https://www.youtube.com/user/Gogola20)
 - [Pontypants](https://www.youtube.com/c/Pontypants)
+- [Primer - PrimerLearning](https://www.youtube.com/c/PrimerLearning)
 - [Raymond Cripps](https://www.youtube.com/c/RaymondCripps)
 - [Sam Hogan - XTtramptricks](https://www.youtube.com/user/XTtramptricks)
 - [Samuel BESSEAU](https://www.youtube.com/channel/UCtyKW1kPa1VbfySOwmvknpg)
