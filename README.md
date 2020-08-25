@@ -74,7 +74,6 @@ Happy watching 😃
 - [Raymond Cripps](https://www.youtube.com/c/RaymondCripps)
 - [Sam Hogan - XTtramptricks](https://www.youtube.com/user/XTtramptricks)
 - [Samuel BESSEAU](https://www.youtube.com/channel/UCtyKW1kPa1VbfySOwmvknpg)
-- [Scaly Bob](https://www.youtube.com/c/ScalyBob)
 - [Sebastian Lague - Cercopithecan](https://www.youtube.com/user/Cercopithecan)
 - [Snuti HQ](https://www.youtube.com/c/SnutiHQ)
 - [The Cherno - TheChernoProject](https://www.youtube.com/c/TheChernoProject)
