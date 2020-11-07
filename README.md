@@ -45,7 +45,7 @@ Happy watching 😃
 - [DualWielded](https://www.youtube.com/channel/UCZ-KsjAT8-39iRpGwqVH2qA)
 - [Game Dev Unlocked](https://www.youtube.com/c/GameDevUnlocked)
 - [GamesWithGabe](https://www.youtube.com/c/GamesWithGabe)
-- [Gaminart - gaminartprod](https://www.youtube.com/c/gaminartprod)
+- [Gaminart - gaminartprod](https://www.youtube.com/channel/UCJfN3gFOCp_g739LqfKSxwQ)
 - [Ghostlopment](https://www.youtube.com/channel/UCZ-HfIUGetmwpXNwDYbfe6g)
 - [Hazzanger](https://www.youtube.com/user/Hazzanger)
 - [Hudson Miears](https://www.youtube.com/channel/UCpHSXFLxATDubOAje6dDKeg)
