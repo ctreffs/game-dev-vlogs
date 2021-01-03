@@ -20,7 +20,7 @@ Happy watching 😃
 
 ## Vlogs
 
-
+- [2etime](https://www.youtube.com/c/2etime/)
 - [Ahmed Mo'nis](https://www.youtube.com/channel/UCfD7zPjir2rIS3PnN-m1H4w)
 - [Alex Figar](https://www.youtube.com/channel/UCzB28hNsHCLddMLn9dPcMLA)
 - [Alex Hicks - Tutorials](https://www.youtube.com/c/AlexHicks_Tutorials)
@@ -89,7 +89,6 @@ Happy watching 😃
 - [VuVuu Inc.](https://www.youtube.com/channel/UCXU6sW7I3If7Gx9yxOWqOfw)
 - [Wannibe Manisha](https://www.youtube.com/channel/UCnwPMw74a4wXBTw5RwB3RZQ)
 - [WAV Games](https://www.youtube.com/channel/UCxE9f_2ONmyMzcYeFYmaTyw)
-
 
 ## License
 
