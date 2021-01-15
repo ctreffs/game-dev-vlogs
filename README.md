@@ -40,6 +40,7 @@ Happy watching 😃
 - [Dani - DaniDev](https://www.youtube.com/c/DaniDev)
 - [Dark Star Games](https://www.youtube.com/channel/UCybyniZCc0VM6pHZfs-OE0g)
 - [Dave Frampton - majiDave](https://www.youtube.com/user/majiDave)
+- [David R. B. - Arbiter617Personal](https://www.youtube.com/c/Arbiter617Personal/)
 - [Death: The Game](https://www.youtube.com/channel/UCW_MAtr_ce4cmRA0spzBraw)
 - [DevDuck](https://www.youtube.com/c/DevDuck)
 - [DualWielded](https://www.youtube.com/channel/UCZ-KsjAT8-39iRpGwqVH2qA)
