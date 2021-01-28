@@ -61,6 +61,7 @@ Happy watching 😃
 - [knucracker](https://www.youtube.com/user/knucracker)
 - [Konitama](https://www.youtube.com/c/Konitama)
 - [Kris - LucenDev](https://www.youtube.com/c/KrisLucenDev)
+- [Kyle Banks - Farewell North](https://www.youtube.com/c/FarewellNorth)
 - [Lightning Boy Studio](https://www.youtube.com/c/LightningBoyStudio)
 - [Matt Bull](https://www.youtube.com/channel/UC1CFW6RBBLDVWpvFY934XJw)
 - [Michael Kocha](https://www.youtube.com/c/MichaelKocha)
