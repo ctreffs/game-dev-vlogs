@@ -74,6 +74,7 @@ Happy watching 😃
 - [Nimso Ny](https://www.youtube.com/user/nimsony)
 - [NotSlot](https://www.youtube.com/c/NotSlot)
 - [Obiwahn89 - Gogola20](https://www.youtube.com/user/Gogola20)
+- [Patch Quest](https://www.youtube.com/c/patchquest)
 - [Pixel Pete - Peter Milko](https://www.youtube.com/c/PeterMilko)
 - [Pontypants](https://www.youtube.com/c/Pontypants)
 - [Primer - PrimerLearning](https://www.youtube.com/c/PrimerLearning)
