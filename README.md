@@ -19,7 +19,6 @@ Happy watching 😃
 ---
 
 ## Vlogs
-
 - [2etime](https://www.youtube.com/c/2etime/)
 - [Ahmed Mo'nis](https://www.youtube.com/channel/UCfD7zPjir2rIS3PnN-m1H4w)
 - [Alex Figar](https://www.youtube.com/channel/UCzB28hNsHCLddMLn9dPcMLA)
@@ -43,6 +42,7 @@ Happy watching 😃
 - [Dave Frampton - majiDave](https://www.youtube.com/user/majiDave)
 - [David R. B. - Arbiter617Personal](https://www.youtube.com/c/Arbiter617Personal/)
 - [Death: The Game](https://www.youtube.com/channel/UCW_MAtr_ce4cmRA0spzBraw)
+- [Denny Schneidemesser](https://www.youtube.com/user/Danman87)
 - [DevDuck](https://www.youtube.com/c/DevDuck)
 - [DualWielded](https://www.youtube.com/channel/UCZ-KsjAT8-39iRpGwqVH2qA)
 - [Game Dev Unlocked](https://www.youtube.com/c/GameDevUnlocked)
