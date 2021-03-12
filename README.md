@@ -19,6 +19,7 @@ Happy watching 😃
 ---
 
 ## Vlogs
+
 - [2etime](https://www.youtube.com/c/2etime/)
 - [Ahmed Mo'nis](https://www.youtube.com/channel/UCfD7zPjir2rIS3PnN-m1H4w)
 - [Alex Figar](https://www.youtube.com/channel/UCzB28hNsHCLddMLn9dPcMLA)
@@ -49,6 +50,7 @@ Happy watching 😃
 - [GamesWithGabe](https://www.youtube.com/c/GamesWithGabe)
 - [Gaminart - gaminartprod](https://www.youtube.com/channel/UCJfN3gFOCp_g739LqfKSxwQ)
 - [Ghostlopment](https://www.youtube.com/channel/UCZ-HfIUGetmwpXNwDYbfe6g)
+- [Guilherme Teres](https://www.youtube.com/c/GuilhermeTeres)
 - [Hazzanger](https://www.youtube.com/user/Hazzanger)
 - [Hudson Miears](https://www.youtube.com/channel/UCpHSXFLxATDubOAje6dDKeg)
 - [Hulahool Games](https://www.youtube.com/channel/UCVATuYt2qb7KPvAY4ejWIAQ)
