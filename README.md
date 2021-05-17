@@ -21,6 +21,7 @@ Happy watching 😃
 ## Vlogs
 
 - [2etime](https://www.youtube.com/c/2etime/)
+- [aarthificial](https://www.youtube.com/c/aarthificial)
 - [Ahmed Mo'nis](https://www.youtube.com/channel/UCfD7zPjir2rIS3PnN-m1H4w)
 - [Alex Figar](https://www.youtube.com/channel/UCzB28hNsHCLddMLn9dPcMLA)
 - [Alex Hicks - Tutorials](https://www.youtube.com/c/AlexHicks_Tutorials)
