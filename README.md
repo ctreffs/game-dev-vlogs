@@ -86,6 +86,7 @@ Happy watching 😃
 - [Samuel BESSEAU](https://www.youtube.com/channel/UCtyKW1kPa1VbfySOwmvknpg)
 - [Sebastian Lague - Cercopithecan](https://www.youtube.com/user/Cercopithecan)
 - [Snuti HQ](https://www.youtube.com/c/SnutiHQ)
+- [Strega's Gate](https://www.youtube.com/STREGAsGate)
 - [The Cherno - TheChernoProject](https://www.youtube.com/c/TheChernoProject)
 - [ThinMatrix](https://www.youtube.com/user/ThinMatrix)
 - [Thomas Brush - AtmosGames](https://www.youtube.com/c/AtmosGames)
