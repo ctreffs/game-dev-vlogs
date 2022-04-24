@@ -47,6 +47,7 @@ Happy watching 😃
 - [Denny Schneidemesser](https://www.youtube.com/user/Danman87)
 - [DevDuck](https://www.youtube.com/c/DevDuck)
 - [DualWielded](https://www.youtube.com/channel/UCZ-KsjAT8-39iRpGwqVH2qA)
+- [DV Gen](https://www.youtube.com/channel/UCt9Rb0CWT8-bbsJtUOg6BsA)
 - [Game Dev Unlocked](https://www.youtube.com/c/GameDevUnlocked)
 - [GamesWithGabe](https://www.youtube.com/c/GamesWithGabe)
 - [Gaminart - gaminartprod](https://www.youtube.com/channel/UCJfN3gFOCp_g739LqfKSxwQ)
