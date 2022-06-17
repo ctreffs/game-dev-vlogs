@@ -25,7 +25,6 @@ Happy watching 😃
 - [Ahmed Mo'nis](https://www.youtube.com/channel/UCfD7zPjir2rIS3PnN-m1H4w)
 - [Alex Figar](https://www.youtube.com/channel/UCzB28hNsHCLddMLn9dPcMLA)
 - [Alex Hicks - Tutorials](https://www.youtube.com/c/AlexHicks_Tutorials)
-- [Andrew Zi Zhen - AndrewGameDev](https://www.youtube.com/c/AndrewGameDev)
 - [Armitage Games - RadioArmitage](https://www.youtube.com/c/RadioArmitage)
 - [Bisqwit](https://www.youtube.com/c/Bisqwit)
 - [BlueGooGames - Space Chef Devlog](https://www.youtube.com/c/BlueGooGames)
