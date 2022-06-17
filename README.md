@@ -92,6 +92,7 @@ Happy watching 😃
 - [ThinMatrix](https://www.youtube.com/user/ThinMatrix)
 - [Thomas Brush - AtmosGames](https://www.youtube.com/c/AtmosGames)
 - [Tom Weiland](https://www.youtube.com/c/TomWeiland)
+- [Vazgriz](https://www.youtube.com/channel/UCZKWZx19viaufZY_UJZqG2w)
 - [Vertex Banana](https://www.youtube.com/channel/UCFgPbOHowDe_mrbs0EV5ZlQ)
 - [VertoStudio3D](https://www.youtube.com/c/VertoStudio3D)
 - [Vimlark](https://www.youtube.com/c/Vimlark)
