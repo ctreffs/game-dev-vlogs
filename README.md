@@ -34,7 +34,6 @@ Happy watching 😃
 - [Brotcrunsher](https://www.youtube.com/c/Brotcrunsher/)
 - [BWDev](https://www.youtube.com/channel/UCYU6BO_VdYnzeQEOS_kSBWA)
 - [CafeLovai](https://www.youtube.com/channel/UCbV627Wqr5VTbupR7rxc6hg)
-- [Clammiee](https://www.youtube.com/c/Clammiee)
 - [Codeer](https://www.youtube.com/channel/UCtUeziXLa_x3vvdzUinqE8w)
 - [CodePadre](https://www.youtube.com/c/CodeParade)
 - [codergopher](https://www.youtube.com/channel/UCfiC4q3AahU4Io-s83-CIbQ)
