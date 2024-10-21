@@ -8,7 +8,7 @@ It started with a [twitter conversation](https://twitter.com/juul1a/status/12804
 Feel free to add as many links to [Vlogs](https://en.wikipedia.org/wiki/Vlog) as you like.  
 
 Prefer channel or user links over direct video links.  
-For YouTube this means you want `c`, `channel` or `user` followed by the channel or user name.  
+For YouTube this means you want either want `@<channel-name>`, `c`, `channel` or `user` followed by the channel or user name.  
 
 To avoid duplicates and provide easy access the list is sorted by name.  
 
@@ -37,6 +37,7 @@ Happy watching 😃
 - [Codeer](https://www.youtube.com/channel/UCtUeziXLa_x3vvdzUinqE8w)
 - [CodePadre](https://www.youtube.com/c/CodeParade)
 - [codergopher](https://www.youtube.com/channel/UCfiC4q3AahU4Io-s83-CIbQ)
+- [Coding with Sphere](https://www.youtube.com/@codingwithsphere)
 - [Dani - DaniDev](https://www.youtube.com/c/DaniDev)
 - [Dark Star Games](https://www.youtube.com/channel/UCybyniZCc0VM6pHZfs-OE0g)
 - [Dave Frampton - majiDave](https://www.youtube.com/user/majiDave)
@@ -46,6 +47,7 @@ Happy watching 😃
 - [DevDuck](https://www.youtube.com/c/DevDuck)
 - [DualWielded](https://www.youtube.com/channel/UCZ-KsjAT8-39iRpGwqVH2qA)
 - [DV Gen](https://www.youtube.com/channel/UCt9Rb0CWT8-bbsJtUOg6BsA)
+- [FuniGameDev](https://www.youtube.com/@funigamedev)
 - [Game Dev Unlocked](https://www.youtube.com/c/GameDevUnlocked)
 - [GamesWithGabe](https://www.youtube.com/c/GamesWithGabe)
 - [Gaminart - gaminartprod](https://www.youtube.com/channel/UCJfN3gFOCp_g739LqfKSxwQ)
@@ -86,17 +88,20 @@ Happy watching 😃
 - [Sebastian Lague - Cercopithecan](https://www.youtube.com/user/Cercopithecan)
 - [Snuti HQ](https://www.youtube.com/c/SnutiHQ)
 - [Strega's Gate](https://www.youtube.com/STREGAsGate)
+- [Sudo love me baby](https://www.youtube.com/@sudolovemebaby)
 - [The Cherno - TheChernoProject](https://www.youtube.com/c/TheChernoProject)
 - [ThinMatrix](https://www.youtube.com/user/ThinMatrix)
 - [Thomas Brush - AtmosGames](https://www.youtube.com/c/AtmosGames)
 - [Tom Weiland](https://www.youtube.com/c/TomWeiland)
 - [Vazgriz](https://www.youtube.com/channel/UCZKWZx19viaufZY_UJZqG2w)
+- [Vercidium](https://www.youtube.com/@Vercidium)
 - [Vertex Banana](https://www.youtube.com/channel/UCFgPbOHowDe_mrbs0EV5ZlQ)
 - [VertoStudio3D](https://www.youtube.com/c/VertoStudio3D)
 - [Vimlark](https://www.youtube.com/c/Vimlark)
 - [VuVuu Inc.](https://www.youtube.com/channel/UCXU6sW7I3If7Gx9yxOWqOfw)
 - [Wannibe Manisha](https://www.youtube.com/channel/UCnwPMw74a4wXBTw5RwB3RZQ)
 - [WAV Games](https://www.youtube.com/channel/UCxE9f_2ONmyMzcYeFYmaTyw)
+
 
 ## License
 
